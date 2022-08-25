@@ -28,7 +28,6 @@
                 {
                     "text": "Types of current",
                     "conceptId": 22846
-                  
                 }
             ],
             "totalMarks": 0
@@ -158,6 +157,11 @@
                 }
             ]
         }
-       
-    ]
+    ],
+    "additionalChoice":{
+        "maximumMarks":3,
+        "marksHolder":[]
+    }
+    
+    
 }
